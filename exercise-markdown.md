@@ -34,146 +34,37 @@ It was created with the aim of providing an easy to read and write syntax.
 
 #### A list within a list
 
-1. Hat
+* Hat
   * green hat
   * blue hat
   * brown hat
 
-1. Socks
+* Socks
   * red socks
   * green socks 
   * yellow socks
 
-#### You see on this documents the differents levels of title and subtitles that you can use and there is more
+#### Add some links
 
-#### Ad some links
+[Markdown Commands](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-Like this link where you can found some commands for Markdown : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[BeCode](https://becode.org/)
 
-#### Ad an image 
+#### Add an image 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
+![Hakunamata](https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/14885639_web1_M-Lion-King-edh-181223.jpg)
 
-#### Ad an animated image
+#### Add an animated image
 
-![](https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](https://thumbs.gfycat.com/FamousMiserableFreshwatereel-small.gif)
 
-#### Display code
-```javascript
-<script type="text/javascript" >
-  alert("hello");
-</script>
-```
-#### Hope you've enjoy this doc
-
-Le Markdown est un langage de balisage inventé par John Gruber en 2004 permettant de formater du texte brut de manière simple pour un rendu en HTML ou dans un autre format.
-
-Contrairement au langage HTML reposant sur l'usage de balises, le Markdown a pour but de permettre une meilleure écriture et une plus grande lisibilité du contenu, le tout offrant un moyen de conversion plus simple.
-
-Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un éditeur de texte compatible, soit directement sur Internet. Certains services de blogs ou de réseaux sociaux souhaitant offrir une option de mise en forme des publications un peu plus riche reposent sur ce langage, c'est le cas par exemple de Google+.
-
-**Les bases du Markdown**
-
-Les bases de mise en page du langage Markdown sont relativement faciles de prises en main et consistent principalement à styliser le texte. Une liste complète de la syntaxe utilisée est disponible sur cette page.
-
-Les bases du langage Markdown
-Description	Markdown	HTML
-Titre principal	
-Titre principal
-
-=======
-
-An unordered list
-  * Puce non numérotée item 1
-  * Puce non numérotée item 2
-  * Puce non numérotée item 3
-
-An ordered list
-  1. Puce numérotée item 1
-  2. Puce numérotée item 2
-  3. Puce numérotée item 3
-
-A list within a list
-  1. Puce numérotée titre 1
-  2. Puce numérotée titre 2
-  * Puce non numérotée sous-titre 1 du titre 2
-  * Puce non numérotée sous-titre 1 du titre 2
-  3. Puce numérotée titre 3
-
-Two or three level of titles and subtitles
-  # Titre de niveau 1
-  ## Titre de niveau 2
-  ### Titre de niveau 3
-
-Some links
-
-  Voici un [Lien vers GitHub](http://github.com) et voilà un autre [Lien vers BeCode](https://becode.org/)
-
-One static image
-  ![Image static de BeCode](https://i.pinimg.com/originals/57/f0/cb/57f0cb44fb54cfb76a0253e5eeb8c1c6.jpg)
-
-One animated image
-  ![Animated image](https://media.giphy.com/media/2dVDlUJTN1inDj7UBT/giphy.gif)
-
-A bit of code (example)
+#### A bit of code
 ```javascript
 function test() {
  console.log("look ma’, no spaces");
 }
 ```
 
-Retour à la page précédente [readme.md](https://github.com/FredBail/exercise-markdown/blob/main/README.md)
+#### Hope you've enjoy this doc
 
-[README](https://github.com/Michael-Zerghe/exercise-markdown/blob/main/README.md)
-
-## Unordered list
-
-* We can make some lists with Markdown
-* It's pretty nice !
-
-
-## Ordered list
-
-1. We can also make some ordered list 
-2. And that's really cool !
-
-## List Within a list
-
-* Also, we can make some lists
-  * within lists
-
-# ceci est un titre
-## Ceci est sous-titre
-### ceci est aussi un sous-titre
-
-[mon github](https://github.com/Michael-Zerghe)
-
-[BeCode](https://becode.org/fr/)
-
-![Logo Becode](https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png)
-
-![Voici un gif](https://thumbs.gfycat.com/FamousMiserableFreshwatereel-small.gif)
-
-## an unordered list
-* first 1
-* second 2
-## ordered list 
-1. third
-2. fourth
-## a list within a list
-* first 
-* second 2
-* * third 2a
-* * fourth 2b
-# header h1
-## h2 header> 
-###### header 6 
-## static image
-![Hakunamata](https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/14885639_web1_M-Lion-King-edh-181223.jpg)
-[GitHub](http://github.com)
-![animmation](http://www.clipartsmania.com/gif/animals_gif/cartoon_birds_blue_flying_animation_clipart.gif)
-
-<script type="text/javascript">
-    var a = prompt("what is your name");
-    alert("welcome"+""+ a);
-</script>
+[README](https://github.com/Laurent-Jazzon/exercise-markdown/blob/master/README.md)
